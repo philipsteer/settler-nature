@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Welcome"
+layout: page
+title: Welcome
 ---
 # Welcome
 
